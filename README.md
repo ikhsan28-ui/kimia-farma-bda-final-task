@@ -18,10 +18,10 @@ Final Submission for Rakamin Virtual Internship Program - Big Data Analyst
 - Dashboard interaktif untuk analisa per tahun dan per provinsi
 
 ## 📊 Dashboard Looker Studio
-[Link Dashboard Looker Studio](#)
+## 📊 Dashboard Looker Studio
+[Klik untuk melihat dashboard](https://lookerstudio.google.com/reporting/09e1e434-89f9-40c8-a6db-630787e78aa6)
+
 
 ## 📁 SQL Script
 Lihat di file `01_create_table_analisa.sql`
 
-## 🎥 Video Presentasi
-[Link YouTube / Google Drive](#)
